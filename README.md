@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://i.imgur.com/aLVpu0v.png"  />
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6b86d678-009f-4519-bbb2-1af066d14fc6" />
 </div>
 
 ###
